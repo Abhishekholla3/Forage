@@ -1,4 +1,4 @@
-# Forage
+# Accenture_DataAnalytics_and_Visualization - Forage 
 Accenture Data Analytics and Visualization Job Simulation (2024)
 This project involved participating in the Accenture North America Data Analytics and Visualization Job Simulation on Forage. During this simulation, I acted as a Data Analyst for a hypothetical social media client.
 
